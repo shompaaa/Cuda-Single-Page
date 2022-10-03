@@ -309,7 +309,7 @@ TEAM SECTION
 .team-member {
     margin-top: 4.5rem;
     margin-bottom: 3.5rem;
-    background: #878787;
+    background: url(../images/kete.jpg) no-repeat center / cover;
     height: 20rem;
     width: 20rem;
     border-radius: 50%;
